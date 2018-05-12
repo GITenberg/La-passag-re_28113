@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33152
     wikipedia: https://fr.wikipedia.org/wiki/Guy_Chantepleure
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28113#La-passag-re
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2009-02-18'
 gutenberg_type: Text
